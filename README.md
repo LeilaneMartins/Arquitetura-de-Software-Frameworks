@@ -1,16 +1,14 @@
  # **Angular** <h1>
+Leilane Teixeira Martins
+CP3013251 
 
- ![Angular](https://logodix.com/logo/1305148.gif)
-
-
-
- Leilane Teixeira Martins
- CP3013251 
+ ![Angular](https://logodix.com/logo/1305148.gif) 
 
 ---
 O Angular é um framework de código aberto utilizado em aplicações web e front-end, tem como objetivo a criação de aplicações de página única, ou seja, páginas onde não é necessário o recarregamento durante o acesso a novas sessões, todo o conteúdo da aplicação esta em uma única página. Com o Angular é possível desenvolver aplicações voltadas tanto para web, desktop e para mobile com o auxílio de outras ferramentas.
 
 O framework é mantido pela Google é baseado na linguagem TypeScript e está entre os frameworks mais utilizados do mercado.
+---
 
 ## **Elementos básicos de uma aplicação Angular** <h2>
 
@@ -30,6 +28,7 @@ O framework é mantido pela Google é baseado na linguagem TypeScript e está en
     - Os serviços são resposáveis por reunir todas as regras de negócio de uma aplicação.
 - Injeção de dependência
     - Padrão de projeto que pode ser usado independentemente da linguagem, usado para deixar as classes de componentes mais eficientes, já que as taferas mais complexas e as regras de negócio são passadas para os serviços. Promove um menor acoplamento entre as classes.
+---
 
 ### **Arquitetura** <h3>
 
@@ -40,12 +39,11 @@ As aplicações Angular são compostas por componentes, os serviços são utiliz
 Os componenentes são compostos por 3 itens: Template HTML, CSS e uma classe que comanda as propriedades e comportamentos.
 
 ![Arquitetura Componentes](Imagens\img2.png)
-
+---
 
 #### **Arquitetura detalhada** <h4>
 
-![Arquitetura Angular][aaaa]
-[aaaa]: https://blog.algaworks.com/o-que-e-angular/ "Fonte: https://blog.algaworks.com/o-que-e-angular/"
+![Arquitetura Angular](https://blog.algaworks.com/o-que-e-angular/)
 
 
 ##### **Referências:** <h5>
