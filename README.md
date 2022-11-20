@@ -35,9 +35,9 @@ As aplicações Angular são compostas por componentes, os serviços são utiliz
 <p align="center"><img src="https://github.com/LeilaneMartins/Arquitetura-de-Software-Frameworks/blob/master/Imagens/img2.png"><br> </p>
 
 
-<br><h4 align="center"> Arquitetura detalhada </h1>
-
 ![Arquitetura Angular](https://algaworks-blog.s3.amazonaws.com/wp-content/uploads/Building-blocks-angular.png)
+
+<br><h4 align="center"> Exemplo de utilização </h1>
 
 <h5 align="center"> Referências </h1><br>
 https://blog.algaworks.com/o-que-e-angular/
